@@ -3,5 +3,6 @@ Rencana konten:
   =1.1 
   =1.2
   =1.3
+- Satu setengah
 - dua
 - tiga
